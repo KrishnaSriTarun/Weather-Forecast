@@ -1,4 +1,7 @@
 .WeatherApp{
-      background-color: white;
-      padding-top: -30px;
-}
+      background: rgba(254, 253, 253, 0.118); 
+      backdrop-filter: blur(10px); 
+      border-radius: 25px;
+      box-shadow: 8px 6px 18px rgba(60, 60, 60, 0.3); 
+      width: 450px;
+}     
